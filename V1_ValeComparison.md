@@ -1,37 +1,16 @@
-## Versão 2 (V2): com modificações através das regras do vale.sh
 
-# Azion Edge Firewall a multi-layered security in Edge
-*Edit on GitHub*
+# Testando espaços
 
-For online service providers like e-commerce, internet banking and media businesses, investing in security is as important as investing in the development of new applications, websites or integrating APIs. Every day, new threats are discovered and, to protect yourself from the activities of cybercriminals, it’s necessary to constantly update security policies and adopt internet security tools, such as firewalls.
+Testando espaços: :
 
-The high cost of maintaining an environment that can both support substantial requests and, at the same time, be protected from external threats, can make business expansion unfeasible. What’s more, they may be essential, but traditional security solutions can use up a lot of your infrastructure’s important resources, which can result in a loss of performance. Edge computing solutions, with their real-time processing, are a way you can both guarantee your applications’ security and maintain performance, at an affordable cost.
+Testando espaços:  :
 
-### Real-time Security with Edge Computing
+Testando espaços:   :
 
-The Azion Edge Firewall is a multi-layered security platform that provides Edge Computing solutions to keep your applications, APIs and websites safer. By running directly at the edge of the network, these solutions are highly scalable and capable of dealing in real time with the OWASP Top 10 Vulnerabilities, mass attacks (DoS and DDoS) and even “zero-day” vulnerabilities, without any drop in performance by your services.
+Testando espaços:    :
 
-### See how the Azion Edge Firewall can help you:
+Testando espaços:     :
 
-Network Layer Protection: constructs a security wall around your content, web applications and the source infrastructure. Protect yourself from the sort of data theft that can cause huge financial and reputational harm to your company, blocking malicious attacks through smart rules that include network blocking (black and white lists of IP addresses, ASN numbers, countries or regions), limiting transfer rates, and more.
+Testando espaços: &nbsp;:
 
-Web Application Firewall (WAF): create highly customizable rules, with real-time configuration updates, to protect any type of web application, including e-commerce, CMS or internet banking, against OWASP’s Top 10 vulnerabilities, including critical attacks on the application layer, such as SQL Injection, or new and evolving threats;
-
-Azion’s DDoS Protection is the result of a globally distributed network and expertise in security, providing you with the skills and capacity you need to mitigate the risk from even the biggest and most complex of attacks, both at the network and the application layers;
-
-Edge Functions: create and configure security functions, such as ReCaptcha, JWT, Web Token and Bot Protection among others, and protect the information that’s important to your competitive strategy, such as price and content, from malicious attacks that consume bandwidth, increase traffic and compromise applications, as well as damaging your SEO ranking.
-
-### How it works
-
-Before you begin, make sure that the Edge Firewall service and its modules are active on your Azion account. If not, please get in contact with Azion’s commercial team to access the service.
-
-To show how it works, the Edge Firewall will be configured for an e-commerce store (domain name - www.myecommerce.com, which must be pre-configured within Edge Application), as an example, and demonstrate how this technology will prevent a particular malicious website from redirecting traffic from the store. For this, a rule will be configured within the Edge Firewall to block Header HTTP Referer.
-
-From Real-Time Manager, create a new configuration of Edge Firewall or edit an existing one. For this, the domain, www.myecommerce.com will be included on the Main Settings tab, so that it can be protected by the rule. Save your rule set and then add a “New Rule” on the Rules Engine tab. Choose a name in the “Rule Engine” and define the activation criteria (Criteria). In this example, a variable Header Referer, along with the operator matches and, for the string comparison, a fictitious address for a malicious site http://www.malicioussite.com will be used.
-
-Next, a simple configuration in a task in “Behavior” using this new rule, in this case, the option used will be “Deny (403 Forbidden).” With this, a rule will be established in which every request to the shop, that originates from the site http://www.malicioussite.com, will be blocked and will return the status code HTTP 403.
-
-To take advantage of everything that Azion Edge Firewall has available, make sure you activate all the modules within Edge Firewall, on the Main Settings tab, through Real-Time Manager. Contact the Azion’s Solutions team for more details.
-
-----------
-Didn’t find what you were looking for? Open a support ticket.
+(tag HTML)Testando espaços: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:
